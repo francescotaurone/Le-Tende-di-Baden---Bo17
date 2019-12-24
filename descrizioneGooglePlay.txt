@@ -1,0 +1,19 @@
+Le Tende di Baden - Bo17
+
+Non è poi così difficile montare una canadese...
+
+Obiettivo: aiutare Baden a montare le tende... facile no?
+
+Beh, vedremo ;) 
+(chi completa il gioco in modalità "Insane!" ha diritto ad un gelato offerto da me)
+
+Ostacoli, oggetti vari, 3 livelli di difficoltà e 2 modalità di gioco.
+In una di queste, "sopravvivenza", potrete condividere il vostro risultato con gli altri per creare una vera e propria classifica!
+
+Io sono Tabu, e questo è un regalo al gruppo Bologna17, per una bellissima esperienza da capo.
+
+Sarebbe fenomenale se con qualcuno di voi interessato a sviluppare videogiochi si riuscisse a creare qualche modifica, magari aggiungere livelli o altro (naturalmente senza togliere tempo allo studio scolastico!)
+
+Per questo, l'intero progetto è aperto e pubblicato si GitHub:
+
+Mi sono permesso di prendere il personaggio di Baden Powell che tutti amiamo come protagonista di questo gioco, facendone una caricatura. Spero che nessuno me ne voglia per questo, vuole solo essere un gioco :)

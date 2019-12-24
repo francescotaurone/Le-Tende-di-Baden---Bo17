@@ -1,0 +1,1 @@
+paloPieces.png,2100,1500,2

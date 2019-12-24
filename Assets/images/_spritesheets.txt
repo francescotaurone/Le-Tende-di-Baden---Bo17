@@ -1,0 +1,13 @@
+catinopieces.png,2100,1500,8
+sovrattelopieces.png,1579,1180,4
+erba.png,1579,1180,3
+bird.png,771,576,3
+sayanOcchi.png,2100,1500,2
+sayan.png,2100,1500,2
+beam.png,2100,1500,2
+beamTip.png,1885,1086,2
+energyBall.png,2100,1500,3
+shrink.png,2100,1500,7
+tendaBimbaEsce.png,2100,1500,11
+fulmine.png,2100,1500,2
+flashlightObject.png,1391,889,3

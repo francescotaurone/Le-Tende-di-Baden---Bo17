@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: fb43a5da64c20f747922f789b41f13a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 783114450835392962
+    second: RefinedBadenPieces_0
+  - first:
+      213: -8431213062609863075
+    second: RefinedBadenPieces_1
+  - first:
+      213: 1813921247412026487
+    second: RefinedBadenPieces_2
+  - first:
+      213: 8671800191543499749
+    second: RefinedBadenPieces_3
+  - first:
+      213: 7165737690036771219
+    second: RefinedBadenPieces_4
+  - first:
+      213: 3830344251401532288
+    second: RefinedBadenPieces_5
+  - first:
+      213: 727975342756450737
+    second: RefinedBadenPieces_6
+  - first:
+      213: 2596236969748812456
+    second: RefinedBadenPieces_7
+  - first:
+      213: -3389329769006380757
+    second: RefinedBadenPieces_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RefinedBadenPieces_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 889
+        width: 747
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5106372, y: 0.13541241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3a5e0aea596e0499a11e5999a2f26d
+      internalID: 783114450835392962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefinedBadenPieces_1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 891
+        width: 372
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5534005, y: 0.49158284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8d4ab93ff30f49a0a68fd2c4b182c
+      internalID: -8431213062609863075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefinedBadenPieces_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 453
+        width: 192
+        height: 283
+      alignment: 9
+      pivot: {x: 0.7690048, y: 0.865009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74389660ffdebb04f9c7d573cc5cc859
+      internalID: 1813921247412026487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefinedBadenPieces_4
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 455
+        width: 193
+        height: 283
+      alignment: 9
+      pivot: {x: 0.13975596, y: 0.88606745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9cbc8951f01945ac684ac568ff63a
+      internalID: 7165737690036771219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefinedBadenPieces_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 239
+        width: 151
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5526228, y: 0.82506216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8163213acec2b41b670b89ffe60495
+      internalID: 727975342756450737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RefinedBadenPieces_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 253
+        width: 137
+        height: 167
+      alignment: 9
+      pivot: {x: 0.2390021, y: 0.85685486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8733ee1c6c4fe2448176f8bb1e88f12
+      internalID: -3389329769006380757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

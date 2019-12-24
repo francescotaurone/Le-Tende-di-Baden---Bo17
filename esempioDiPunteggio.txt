@@ -1,0 +1,4 @@
+#1 <width=60%>camilla​</width><pos=70%>	150
+#2 <width=60%>player 1 ​</width><pos=70%>	44
+#3 <width=60%>prima prova cel</width><pos=70%>	41
+#4 <width=60%>francesco</width><pos=70%>	10
